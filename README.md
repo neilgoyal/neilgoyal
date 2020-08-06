@@ -21,8 +21,8 @@
 
 <p align="center"> 
 <a href="https://twitter.com/neil_da_gr8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="neil_da_gr8" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/neil goyal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="neil goyal" height="30" width="30" /></a>
-<a href="https://kaggle.com/neil goyal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="neil goyal" height="30" width="30" /></a>
-<a href="https://fb.com/neil goyal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="neil goyal" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/neil-goyal-835348192/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="neil goyal" height="30" width="30" /></a>
+<a href="https://www.kaggle.com/neildagr8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="neil goyal" height="30" width="30" /></a>
+<a href="https://fb.com/Neil Goyal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="neil goyal" height="30" width="30" /></a>
 <a href="https://instagram.com/neil_da_gr8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="neil_da_gr8" height="30" width="30" /></a>
 </p>
