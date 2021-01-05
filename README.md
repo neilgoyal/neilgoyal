@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neildagr8&label=Profile%20views&color=0e75b6&style=flat" alt="neildagr8" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neildagr8" alt="neildagr8" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/neil_da_gr8" target="blank"><img src="https://img.shields.io/twitter/follow/neil_da_gr8?logo=twitter&style=for-the-badge" alt="neil_da_gr8" /></a> </p>
 
 - 🔭 I’m currently working on [AI chess game](https://github.com/Neildagr8/chess-game)
@@ -15,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Neildagr8](https://github.com/Neildagr8)
 
-- 📝 I regularly write articles on [https://github.com/Neildagr8/Neildagr8/blob/master/neilgoyalblog.pythonanywhere.com](https://github.com/Neildagr8/Neildagr8/blob/master/neilgoyalblog.pythonanywhere.com)
+- 📝 I regularly write articles on [https://neilgoyalblog.pythonanywhere.com](https://neilgoyalblog.pythonanywhere.com)
 
 - 📫 How to reach me **neilgo1234@gmail.com**
 
