@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/neil_da_gr8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="neil_da_gr8" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/neilgoyal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="neil-goyal-835348192" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/neilgoyal/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="neil-goyal-835348192" height="30" width="40" /></a>
 <a href="https://kaggle.com/neildagr8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="neildagr8" height="30" width="40" /></a>
 <a href="https://fb.com/neildagr8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="neildagr8" height="30" width="40" /></a>
 <a href="https://instagram.com/neildagr8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="neildagr8" height="30" width="40" /></a>
