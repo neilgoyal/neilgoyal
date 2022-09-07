@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neildagr8&label=Profile%20views&color=0e75b6&style=flat" alt="neildagr8" /> </p>
 
-<p align="left"> <a href="https://twitter.com/neil_da_gr8" target="blank"><img src="https://img.shields.io/twitter/follow/neil_da_gr8?logo=twitter&style=for-the-badge" alt="neil_da_gr8" /></a> </p>
 
 - 🔭 I’m currently working on [AI chess game](https://github.com/Neildagr8/chess-game)
 
