@@ -12,8 +12,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Neildagr8](https://github.com/Neildagr8)
 
-- 📝 I regularly write articles on [https://neilgoyalblog.pythonanywhere.com](https://neilgoyalblog.pythonanywhere.com)
-
 - 📫 How to reach me **neilgo1234@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
