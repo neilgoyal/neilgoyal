@@ -8,10 +8,6 @@
 
 - 🌱 I’m currently learning **Flutter and Dart**
 
-- 👯 I’m looking to collaborate on **AI and ML projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/neilgoyal](https://github.com/neilgoyal)
-
 - 📫 How to reach me **neilgo1234@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
